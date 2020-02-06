@@ -4,3 +4,5 @@ REPORT:
 -fixed the issue in which the second page of tourist webpage didn't
 link back home.
 -Watched the React Crash Course Video and implemented it partially.
+6/02/2020
+-Updated the codes from the crash course video and implemented it further.
