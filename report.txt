@@ -6,3 +6,5 @@ link back home.
 -Watched the React Crash Course Video and implemented it partially.
 6/02/2020
 -Updated the codes from the crash course video and implemented it further.
+7/02/2020
+-Updated the codes from the crash course video. Basic layouts and functionalities added to the Todo App.
