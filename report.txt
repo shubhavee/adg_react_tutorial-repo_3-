@@ -10,3 +10,6 @@ link back home.
 -Updated the codes from the crash course video. Basic layouts and functionalities added to the Todo App.
 8/02/2020
 -Completed the Todo App from the crash course.
+9/02/2020
+-read up on lite-server and implemented it.
+-started a course on React to clarify the basics.
