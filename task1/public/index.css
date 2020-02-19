@@ -1,0 +1,22 @@
+/* .jumbotron{
+  background-color: #f2ebd3;
+  margin:20px;
+  background-size: cover;
+      padding-top: 20%;
+      padding-bottom: 20%;
+} */
+
+.jumbotron{
+  background-color: #f2ebd3;
+  margin:100px;
+  height: 50%;
+
+}
+
+body{
+  background-color: #760A1F;
+}
+
+.container{
+  margin:20px;
+}
